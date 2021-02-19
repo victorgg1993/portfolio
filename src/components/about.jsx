@@ -37,6 +37,11 @@ class About extends React.Component {
           porcentage: "35%",
         },
         {
+          id: "Python3",
+          content: "Python3",
+          porcentage: "30%",
+        },
+        {
           id: "Angular",
           content: "Angular",
           porcentage: "25%",

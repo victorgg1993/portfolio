@@ -4,7 +4,7 @@ import React from "react";
 
 class Portfolio extends React.Component {
 
-  ruta_imatges = '../../projectes/';
+  ruta_imatges = 'https://raw.githubusercontent.com/victorgg1993/portfolio/main/public/projectes/';
 
   projectes =
     [
