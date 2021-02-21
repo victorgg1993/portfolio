@@ -11,7 +11,7 @@ class Portfolio extends React.Component {
       {
         titol: 'PokeFinder',
         resum: 'Aplicación hecha en Ionic y firebase, que permite capturar pokémon y mostrarlos. Cuenta con un sistema de registro y login.',
-        img_principal: this.ruta_imatges + 'pokefinder/portada.jpg',
+        img_principal: this.ruta_imatges + 'pokefinder/portada.png',
         imatges: [
           this.ruta_imatges + 'pokefinder/1.png',
           this.ruta_imatges + 'pokefinder/2.png',
