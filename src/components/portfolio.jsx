@@ -9,6 +9,36 @@ class Portfolio extends React.Component {
   projectes =
     [
       {
+        titol: 'PokeFinder',
+        resum: 'Aplicación hecha en Ionic y firebase, que permite capturar pokémon y mostrarlos. Cuenta con un sistema de registro y login.',
+        img_principal: this.ruta_imatges + 'pokefinder/portada.jpg',
+        imatges: [
+          this.ruta_imatges + 'pokefinder/1.png',
+          this.ruta_imatges + 'pokefinder/2.png',
+          this.ruta_imatges + 'pokefinder/3.png',
+          this.ruta_imatges + 'pokefinder/4.png',
+          this.ruta_imatges + 'pokefinder/5.png',
+          this.ruta_imatges + 'pokefinder/6.png',
+          this.ruta_imatges + 'pokefinder/7.png',
+          this.ruta_imatges + 'pokefinder/8.png',
+          this.ruta_imatges + 'pokefinder/9.png',
+          this.ruta_imatges + 'pokefinder/10.png',
+          this.ruta_imatges + 'pokefinder/11.png',
+          this.ruta_imatges + 'pokefinder/12.png',
+          this.ruta_imatges + 'pokefinder/13.png',
+          this.ruta_imatges + 'pokefinder/14.png',
+          this.ruta_imatges + 'pokefinder/15.png',
+          this.ruta_imatges + 'pokefinder/16.png',
+          this.ruta_imatges + 'pokefinder/17.png',
+          this.ruta_imatges + 'pokefinder/18.png',
+          this.ruta_imatges + 'pokefinder/19.png',
+          this.ruta_imatges + 'pokefinder/20.png',
+          this.ruta_imatges + 'pokefinder/21.png',
+          this.ruta_imatges + 'pokefinder/22.png',
+        ]
+      },
+
+      {
         titol: 'Mp3',
         resum: 'Reproductor MP3 programado en C usando un microcontrolador STM32F446 con arquitectura ARM.',
         img_principal: this.ruta_imatges + 'mp3/portada.jpg',
